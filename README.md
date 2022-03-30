@@ -22,5 +22,5 @@
 ```
 MIT License
 
-Copyright (c) 2021 Tridev Deka
+Copyright (c) 2022 Tridev Deka
 ```
